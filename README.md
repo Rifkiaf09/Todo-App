@@ -12,7 +12,7 @@ A simple and functional To-Do List application built with **Flutter** and integr
 - Secure logout functionality
 - Clean UI with task categorization and filtering *(on progress)*
 
-## 🛠Tech Stack
+## Tech Stack
 
 - **Flutter** (Frontend)
 - **Firebase Authentication** (Login & Register)
